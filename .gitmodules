@@ -1,0 +1,6 @@
+[submodule "nextjs-material-ui"]
+	path = nextjs-material-ui
+	url = https://github.com/victodias/nextjs-with-material-ui
+[submodule "nextjs-with-material-ui"]
+	path = nextjs-with-material-ui
+	url = https://github.com/victodias/nextjs-with-material-ui
